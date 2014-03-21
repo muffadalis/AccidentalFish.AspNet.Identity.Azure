@@ -16,10 +16,10 @@
     <copyright>Copyright 2013 Accidental Fish Ltd.</copyright>
     <tags>azure table storage oauth web api owin aspnet claims claimsauthenticationmanager active directory role authorize authorization authentication</tags>
     <dependencies>
-        <dependency id="WindowsAzure.Storage" version="2.1.0.3" />
-        <dependency id="Microsoft.AspNet.Identity.Core" version="1.0.0" />
-        <dependency id="Microsoft.Data.Services.Client" version="5.6.0" />
-        <dependency id="Microsoft.WindowsAzure.ConfigurationManager" version="2.0.2.0" />
+        <dependency id="WindowsAzure.Storage" version="3.1.0.0" />
+        <dependency id="Microsoft.AspNet.Identity.Core" version="2.0.0" />
+        <dependency id="Microsoft.Data.Services.Client" version="5.6.1" />
+        <dependency id="Microsoft.WindowsAzure.ConfigurationManager" version="2.0.3" />
     </dependencies>
   </metadata>
 </package>
